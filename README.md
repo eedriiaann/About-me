@@ -1,5 +1,5 @@
 # About-me
-<h1 align="center">¡Hola! Mi nombre es Gorka Ajangiz Morales</h1>
+<h1 align="center">¡Hola! Mi nombre es Edrian Mendoza</h1>
 <h3 align="center">Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del País Vasco, España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkajangiz&label=Profile%20views&color=0e75b6&style=flat" alt="gorkajangiz" /> </p>
